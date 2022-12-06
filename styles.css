@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(1, 42, 74);
+    color: white;
+}
+
+.title, h1 {
+    font-family: "Trebuchet MS", "Times New Roman", sans-serif;
+    color: rgb(105, 233, 239);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 179, 255);
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+.description {
+    font-size: 18px;
+}
+
+.ingredients li{
+    font-size: 18px;
+    color: rgb(213, 187, 156);
+}
+
+.steps {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.optional {
+    font-style: italic;
+}
